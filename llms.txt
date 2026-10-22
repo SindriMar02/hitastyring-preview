@@ -1,0 +1,29 @@
+# Hitastýring hf.
+
+> Icelandic service company at Ármúli 16, Reykjavík, founded 1977. Consulting, sales, installation and service of control systems for heating and ventilation, Liebert (Vertiv) precision cooling for data centres and technical rooms, Condair and Vapac humidification, Weishaupt burners and boilers, and Comark measurement instruments. Fourteen staff, most with a direct mobile number. Phone +354 552 2222, hitastyring@hitastyring.is.
+
+## Fields
+
+- Cooling for data centres and technical rooms: Liebert PDX, PCW, CRV (11 to 50 kW), AFC and HPC freecooling chillers (HPC 350 kW to over 20 MW, HPC-W 280 to 1200 kW), EFC evaporative freecooling, HPA and HPD heat rejection (5 to 100 kW), HPF and HPS telecom units (HPS 6 to 14 kW), XD and Knürr high density cooling, iCOM, SmartAisle and SuperSaver monitoring, Argo iSeries for smaller rooms.
+- Control systems for heating and ventilation: built and installed for each building, regular inspections, service contracts, call-outs, consulting.
+- Humidification: Condair ML Solo, ML Princess (12 to 54 l/h per unit), ML Flex, HP, Draabe NanoFog Evolution (up to 3 kg/h per nozzle), JetSpray (60 and 600 l/h), Vapac VapaLite, LE Comfort Control and LF Void.
+- Burners, boilers and instruments: Weishaupt oil burners and steam boilers, Comark thermometers, HACCP instruments, data logging and RF500 monitoring, humidity and pressure meters, timers, thermometer calibration.
+
+## Company
+
+- Hitastýring hf., reg. no. 581177-0119, VAT no. 10824, registered 18 November 1977, Ármúla 16, 108 Reykjavík.
+- Managing director Helgi Sverrisson, helgi@hitastyring.is, +354 660 1401.
+- Agencies in Iceland: Vertiv (Liebert), Condair, Vapac, Weishaupt, Comark, Argo.
+
+## Pages
+
+- Home: /#/
+- Data centre cooling: /#/gagnaver (sample products /#/gagnaver/pdx, /#/gagnaver/crv, /#/gagnaver/afc)
+- Heating and ventilation control: /#/loftraesting
+- Humidification: /#/raki
+- Burners and instruments: /#/kynditaeki-og-maelitaeki
+- Service request: /#/thjonustubeidni
+- Staff: /#/starfsmenn
+- The company: /#/fyrirtaekid
+- Jobs: /#/atvinna
+- English overview: /#/en
